@@ -1,0 +1,27 @@
+{
+  "name": "nextlocalstoragehook",
+  "version": "1.0.0",
+  "description": "NPM package for saving data to local storage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thefaruksardar/nextlocalstoragehook.git"
+  },
+  "keywords": [
+    "local",
+    "storage",
+    "hook"
+  ],
+  "author": "faruk sardar",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/thefaruksardar/nextlocalstoragehook/issues"
+  },
+  "homepage": "https://github.com/thefaruksardar/nextlocalstoragehook#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
